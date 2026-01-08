@@ -9,6 +9,8 @@ Select a Piece – Click on any chess piece to select it
 View Legal Moves – The board highlights all valid moves for that piece
 Capture Enemies – Enemy pieces that can be captured are shown with a different highlight
 Move – Click on any highlighted tile to move the selected piece there
+
+
 <img width="470" height="489" alt="image" src="https://github.com/user-attachments/assets/6c49fcd6-79dc-42b5-bea5-76ee0406710e" />
 <img width="527" height="503" alt="image" src="https://github.com/user-attachments/assets/05d75e55-4550-441b-a45a-c04aa6ec158b" />
 <img width="540" height="478" alt="image" src="https://github.com/user-attachments/assets/2c248c99-6b4b-4e4c-a78f-643d2351b87d" />
